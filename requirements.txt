@@ -1,0 +1,13 @@
+catboost==1.2.8
+category_encoders==2.8.1
+lightgbm==4.6.0
+matplotlib==3.10.0
+numpy==1.26.4
+pandas==2.2.3
+phik==0.12.5
+scikit-learn==1.6.1
+scipy==1.16.1
+seaborn==0.13.2
+shap==0.47.1
+ydata-profiling==4.16.1
+xgboost==3.0.2 
